@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #456328;
+}
+
+ul {
+    text-decoration: none;
+    display: flex;
+    list-style: none;
+    margin-left: 100em;
+    text-decoration: double;
+}
+
+li {
+    margin: 5px;
+    padding-top: px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.container {
+    max-width: 100%;
+    height: 50px;
+}
+
+nav {
+    height: 50px;
+    padding-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+h4 {
+    color: rgb(113, 171, 146);
+    font-family: monospace;
+    margin-left: 10px;
+    font-size: 200%;
+    text-shadow: black;
+}
